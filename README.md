@@ -46,7 +46,6 @@
 - **Privacy-focused blockchain explorer** built with JavaScript.
 - Enables secure, anonymous tx verification on StarkNet.
 - 🚀 Stars: [![Stars](https://img.shields.io/github/stars/raunaksingh765/starkblock?style=social)](https://github.com/raunaksingh765/starkblock)
-- 🔗 [Live Demo](https://your-demo-link.com) (add kar de jab ready ho)
 
 ### [REACTOR](https://github.com/raunaksingh765/REACTOR)
 - **THE MOST POWERFUL PC OPTIMIZER EVER CREATED** – PowerShell magic for Windows tweaks.
